@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+  }
+  
+  .card {
+    /* Style your cards here */
+    flex: 1; /* Ensures cards take equal width */
+    margin: 10px; /* Add spacing between cards */
+  }
+
+.lead{
+margin-right: 100px;
+}  
